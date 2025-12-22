@@ -16,10 +16,28 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
   <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/stargazers"><img src="https://img.shields.io/github/stars/ShanFlash/SCP-SL_zh_Flash?style=social" alt="GitHub Stars"></a>&nbsp;&nbsp;
   <a href="https://img.shields.io/github/downloads/ShanFlash/SCP-SL_zh_Flash/total.svg"><img src="https://img.shields.io/github/downloads/ShanFlash/SCP-SL_zh_Flash/total.svg?color=%23008F1C" alt="GitHub Downloads"></a>&nbsp;&nbsp;
   <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/releases"><img src="https://img.shields.io/github/v/release/ShanFlash/SCP-SL_zh_Flash?color=%230096FF" alt="Release"></a>&nbsp;&nbsp;
-  <a href="https://qm.qq.com/q/WidrCektW2"><img src="https://img.shields.io/badge/QQ%E4%BA%A4%E6%B5%81%E7%BE%A4-811343251-orange?color=%23FF8000" alt="QQ Chat Group"></a>&nbsp;&nbsp;
+  <a href="https://pd.qq.com/s/7e6z2lvx9?b=5"><img src="https://img.shields.io/badge/QQ%E9%A2%91%E9%81%93-%E7%A7%98%E5%AF%86%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%BF%BB%E8%AF%91%E5%8C%85-orange?color=%23FF8000" alt="QQ Channel"></a>&nbsp;&nbsp;
   <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/network/members"><img src="https://img.shields.io/github/forks/ShanFlash/SCP-SL_zh_Flash" alt="GitHub Forks"></a>
 </p>
 
+> [!WARNING]重要通知
+> **本项目目前暂停更新**  
+>  
+> 由于一些个人原因，本项目将暂停更新一段时间；  
+> 后续在条件允许的情况下，会继续对该项目进行更新与维护；  
+> 感谢各位的理解与支持！
+
+
+> [!NOTE]关于 QQ 频道
+> 
+> 点击链接加入腾讯频道：[【SL秘密实验室翻译包】](https://pd.qq.com/s/7e6z2lvx9?b=5)  
+> 
+> 原 QQ 交流群现已作废，今后将统一使用 QQ 频道作为后续交流平台；  
+> 该频道现处于备用阶段，暂未正式开放，现阶段为全员禁言状态，仅用于成员提前加入；  
+> 待项目恢复更新后，将同步开放频道。
+  
+> _最后状态更新时间：2025-12-22_
+  
 
 ## 📝 翻译包信息
 
@@ -28,7 +46,7 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 ### 📌 基本信息
 
 - 翻译包名称：简体中文・原版重置（ZH-FLASH）
-- 翻译包作者：是闪闪闪闪闪（**[作者bilibili主页](https://space.bilibili.com/545576624)**）
+- 翻译包作者：**[bilibili 主页](https://space.bilibili.com/545576624)**
 - 注意事项如下：
   - 本翻译包基于游戏[**《SCP: Secret Laboratory》**](https://scpslgame.com)官方简体中文翻译文件 [`zh_Hans`](./ZH_HANS/manifest.json) 进行修改；
   - 本项目的修改内容遵循 [**CC BY-SA 3.0**](https://creativecommons.org/licenses/by-sa/3.0/legalcode) 协议。
@@ -59,15 +77,18 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
   
 ## 📅 日后与更新
 
+> 以下内容为项目原计划构想，当前处于暂停状态，仅作记录。
+
 - 本系列翻译包（原版重置）的全部文件都将发布在此项目中。
 - 将来可能会制作的翻译包系列：
   - 梗体中文（以游戏梗为基础制作的翻译包）；
   - 中英混合（以中文与英文进行混合的翻译包）；
   - 主题颜色（可能会制作不同颜色主题的翻译包）；
   - 精神污染（~~简称瞎做~~）；
-  - 除此之外，偶尔将会发布内测版翻译包（~~半成品版本~~），内测版翻译包不会同步在本项目中，只在 [翻译包交流群](https://qm.qq.com/q/WidrCektW2) 中发布。
-- 如果你还有什么更好的想法或者是一些建议，或是发现有什么 Bug，都可以通过 [**bilibili私信和评论**](https://space.bilibili.com/545576624)、GitHub 提 Issues 或加入 [QQ交流群](https://qm.qq.com/q/WidrCektW2) 告诉我，欢迎提出！
+- 如果你还有什么更好的想法或者是一些建议，或是发现有什么 Bug，都可以通过 [**bilibili私信**](https://space.bilibili.com/545576624)、GitHub 提 Issues 或加入 [QQ 频道](https://pd.qq.com/s/7e6z2lvx9?b=5) 告诉我，欢迎提出！
 - 希望本翻译包能够给想要自己制作翻译包的人提供一些灵感与帮助，期待你们的作品！
+  
+> 当前暂停期间暂不处理 Issue / PR，敬请理解。
   
 ## 📖 下载与使用方法
 
