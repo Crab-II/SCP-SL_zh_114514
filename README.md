@@ -20,7 +20,7 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
   <a href="https://github.com/ShanFlash/SCP-SL_zh_Flash/network/members"><img src="https://img.shields.io/github/forks/ShanFlash/SCP-SL_zh_Flash" alt="GitHub Forks"></a>
 </p>
 
-> [!WARNING]重要通知
+> [!WARNING]
 > **本项目目前暂停更新**  
 >  
 > 由于一些个人原因，本项目将暂停更新一段时间；  
@@ -28,7 +28,7 @@ _✨ SCP : SL 自定义翻译包 —— 简体中文 • 原版重置 ✨_
 > 感谢各位的理解与支持！
 
 
-> [!NOTE]关于 QQ 频道
+> [!NOTE]
 > 
 > 点击链接加入腾讯频道：[【SL秘密实验室翻译包】](https://pd.qq.com/s/7e6z2lvx9?b=5)  
 > 
